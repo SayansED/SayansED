@@ -18,8 +18,8 @@
 
 ### Onde me encontrar:
 
-<a href="www.linkedin.com/in/eduardo-sayans">
-  <code><img alt="Meu linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
+<a href="https://br.linkedin.com/in/eduardo-sayans">
+  <code><img alt="Meu linkedin" width="28" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1615826535~hmac=80eaea9a63ef456ef371496cdc1db4fc" /></code>
 </a>
 
 <a href="mailto:contato@eduardosayans.com">
