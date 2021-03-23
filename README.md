@@ -27,8 +27,9 @@
 </a>
 
 <a href="https://www.eduardosayans.com/">
-  <code><img alt="Meu site pessoal" width="32" src="https://www.flaticon.com/svg/vstatic/svg/1786/1786115.svg?token=exp=1615825132~hmac=a3eb253125ca917fd3d277b366c4555e" /></code>
+  <code><img alt="Meu site pessoal" width="32" src="https://img.icons8.com/cotton/64/000000/website.png" /></code>
 </a>
+
 
 <br/><br/>
 
