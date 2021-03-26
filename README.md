@@ -19,12 +19,14 @@
 ### Onde me encontrar:
 
 <a href="https://br.linkedin.com/in/eduardo-sayans">
-  <code><img alt="Meu linkedin" width="28" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1615826535~hmac=80eaea9a63ef456ef371496cdc1db4fc" /></code>
+  <code><img alt="Meu linkedin" width="28" src="https://img.icons8.com/fluent/48/000000/linkedin.png" /></code>
 </a>
 
+
 <a href="mailto:contato@eduardosayans.com">
-  <code><img alt="Meu e-mail" width="32" src="https://www.flaticon.com/svg/vstatic/svg/281/281769.svg?token=exp=1615824936~hmac=6503ebb5b8861a2c56e45298db5b8668" /></code>
+  <code><img alt="Meu e-mail" width="32" src="https://img.icons8.com/fluent/48/000000/gmail--v1.png" /></code>
 </a>
+
 
 <a href="https://www.eduardosayans.com/">
   <code><img alt="Meu site pessoal" width="32" src="https://img.icons8.com/cotton/64/000000/website.png" /></code>
