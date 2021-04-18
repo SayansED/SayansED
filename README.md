@@ -32,7 +32,6 @@
   <code><img alt="Meu site pessoal" width="32" src="https://img.icons8.com/cotton/64/000000/website.png" /></code>
 </a>
 
-
 <br/><br/>
 
 ## Minhas habilidades
