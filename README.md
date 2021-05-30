@@ -67,7 +67,6 @@
 
 <br/>
 
-
 <p align="right">
   <a href="https://badges.pufler.dev">
       <img src="https://badges.pufler.dev/visits/sayansed/sayansed" alt="Visitors badge" />
