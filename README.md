@@ -15,7 +15,7 @@
 
 - 📚 Atualmente estou estudando uma das principais tecnologia da World Wide Web: JavaScript (ReactJS, React-native, NodeJS); 
 
-- 📬 Procurando por vaga de estágio ou desenvolvimento junior na área de tecnologia;
+- 📬 I work at two startups with system deployment and support!!
 
 - 💬 Ficou alguma dúvida? pode entrar em contato.
 
