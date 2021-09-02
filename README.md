@@ -5,6 +5,9 @@
 <p>
   Me chamo Eduardo Sayans, sou estudante de desenvolvimento de sistemas. 
 </p>
+<p>
+  Atualmente trabalho nas Startups BomControle e Milvus, trabalho com implantação de sistema e suporte!!.
+</p>
 
 ### Um pouco sobre mim
 
