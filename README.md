@@ -3,19 +3,17 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayansED&hide=html&vue&theme=dracula" alt="SayansED" />
 
 <p>
-  Me chamo Eduardo Sayans, sou estudante de desenvolvimento de sistemas. 
+  Me chamo Eduardo Sayans, sou formado em Análise e desenvolvimento de sistemas. 
 </p>
 <p>
-  Atualmente trabalho nas Startups BomControle e Milvus, trabalho com implantação de sistema e suporte!!.
+  Atualmente trabalho na empresa BomControle com implantação de sistema e suporte!!.
 </p>
 
 ### Um pouco sobre mim
 
-- 👨‍💻 Estudo Análise e Desenvolvimento de Sistemas na FATEC Ipiranga;
+- 👨‍💻 Formado em Análise e Desenvolvimento de Sistemas na FATEC Ipiranga;
 
-- 📚 Atualmente estou estudando uma das principais tecnologia da World Wide Web: JavaScript (ReactJS, React-native, NodeJS); 
-
-- 📬 I work at two startups with system deployment and support!!
+- 📚 Atualmente estou estudando uma das principais tecnologia da World Wide Web: JavaScript (ReactJS e React-native); 
 
 - 💬 Ficou alguma dúvida? pode entrar em contato.
 
@@ -26,13 +24,8 @@
 </a>
 
 
-<a href="mailto:contato@eduardosayans.com">
+<a href="mailto:eduardo.java.dev@gmail.com">
   <code><img alt="Meu e-mail" width="32" src="https://img.icons8.com/fluent/48/000000/gmail--v1.png" /></code>
-</a>
-
-
-<a href="https://www.eduardosayans.com/">
-  <code><img alt="Meu site pessoal" width="32" src="https://img.icons8.com/cotton/64/000000/website.png" /></code>
 </a>
 
 <br/><br/>
@@ -43,19 +36,16 @@
 
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" alt="React-native"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 
 **DevOps**
 
 <code><img height="32" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
-<code><img height="32" src="https://img.utdstc.com/icon/c2f/773/c2f7733df6524599afea694769062bc12d389fb4178f8be7b644c5e802fbbc17:200" alt="VirtualBox"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" alt="Postman"/></code>
 
 <br/>
